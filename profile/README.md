@@ -9,7 +9,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 # gcui.ai 👋
-We are dedicated to streamlining the use of creative AI models.
+Making AI Creation Simple.
 
 ## About us
 🙋‍♀️ We are a tight-knit team of experienced engineers, designers, and product managers.
