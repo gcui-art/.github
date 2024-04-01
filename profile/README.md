@@ -8,7 +8,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-# gcui.art 👋
+# gcui.ai 👋
 We are dedicated to streamlining the use of creative AI models.
 
 ## About us
