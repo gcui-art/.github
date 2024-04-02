@@ -12,9 +12,9 @@
 Making AI Creation Simple.
 
 ## About us
-🙋‍♀️ We are a tight-knit team of experienced engineers, designers, and product managers.
-👩‍💻 Since 2023, we have been churning out a plethora of intriguing AI products.
-✨ Our current focus revolves around tackling LLM usability and connectivity issues, with the aim of hastening the adoption of top-tier AI models by a wider audience and businesses through meticulously crafted products and open-source initiatives.
+- 🙋‍♀️ We are a tight-knit team of experienced engineers, designers, and product managers.
+- 👩‍💻 Since 2023, we have been churning out a plethora of intriguing AI products.
+- ✨ Our current focus revolves around tackling LLM usability and connectivity issues, with the aim of hastening the adoption of top-tier AI models by a wider audience and businesses through meticulously crafted products and open-source initiatives.
 
 ## Follow us
 we will soon launch some very useful LLM open source applications.
